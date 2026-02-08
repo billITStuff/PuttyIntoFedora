@@ -1,36 +1,22 @@
 # Using Putty to SSH into Fedora Linux
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+In this project I will demostrate how to ssh into Fedora Linux using Putty. I am running Fedora on a virtual machine, but this would often be used to remote into a linux server to change some config or do something with the file system
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+-How to setup openssh in Fedora
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+-How to SSH into a remote server
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+-Putty
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+-Fedora 43 Workstation
+
+-Virtualbox for my virtual machine
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-SSH into Fedora Using Putty
-
-In this post I will demostrate how to ssh into Fedora Linux using Putty. I am running Fedora on a virtual machine, but this would often be used to remote into a linux server to change some config or do something with the ifle system
+In this project I will demostrate how to ssh into Fedora Linux using Putty. I am running Fedora on a virtual machine, but this would often be used to remote into a linux server to change some config or do something with the file system
 
 Setup
 
