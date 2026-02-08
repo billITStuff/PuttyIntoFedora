@@ -4,16 +4,13 @@
 In this project I will demostrate how to ssh into Fedora Linux using Putty. I am running Fedora on a virtual machine, but this would often be used to remote into a linux server to change some config or do something with the file system
 
 ### Skills Learned
--How to setup openssh in Fedora
-
--How to SSH into a remote server
+- How to setup openssh in Fedora.
+- How to SSH into a remote server.
 
 ### Tools Used
--Putty
-
--Fedora 43 Workstation
-
--Virtualbox for my virtual machine
+- Putty.
+- Fedora 43 Workstation.
+- Virtualbox for my virtual machine.
 
 ## Steps
 In this project I will demostrate how to ssh into Fedora Linux using Putty. I am running Fedora on a virtual machine, but this would often be used to remote into a linux server to change some config or do something with the file system
